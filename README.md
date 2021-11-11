@@ -1,5 +1,7 @@
 
-# 	Criando um site para encontrar restaurantes usando Google Maps que consulta API do Google.
+# Creating a website to find restaurants using Google Maps that queries the Google API.
+
+Bootcamp Impulso React Web Developer brings the main fundamentals of React and JavaScript developed by [DigitalInnovationOne](https://www.dio.me/) and partnership with [Impulso network](https://impulso.network/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
